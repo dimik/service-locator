@@ -1,0 +1,18 @@
+{
+    "name" : "service-locator",
+    "version" : "1.0",
+    "description" : "Simple javascript implementation of dependency injection approach using Service Locator pattern.",
+    "author" : "Dmitry Poklonskiy <dimik@ya.ru>",
+    "main" : "./index",
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/dimik/service-locator"
+    },
+    "licenses" : [
+        {
+            "type": "AS IS"
+        }
+    ],
+    "engine" : { "node" : ">=0.4.0" }
+}
+
